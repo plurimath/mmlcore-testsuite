@@ -1,0 +1,4 @@
+<math>
+    <mtext class="fail" style="background: red; color: white;">FAIL</mtext>
+    <mtext class="pass" style="color: white;">PASS</mtext>
+  </math>

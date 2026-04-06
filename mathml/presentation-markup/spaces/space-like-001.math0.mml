@@ -1,0 +1,9 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- mtext is space-like. -->
+        <mtext class="testedElement" id="mtext">X</mtext>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

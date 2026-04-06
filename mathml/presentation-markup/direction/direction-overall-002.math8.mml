@@ -1,0 +1,11 @@
+<math dir="rtl">
+        <mstyle mathcolor="white">
+          <msqrt>
+            <!-- Here, we assume that (width of radical + width of mspace)
+                 is greater than the width of the black rectangle (i.e.
+                 width of radical > 30 - 25 = 5px), so the test fails if the
+                 radical is placed on the left. -->
+            <mspace width="25px" height="20px" mathbackground="grey"/>
+          </msqrt>
+        </mstyle>
+      </math>

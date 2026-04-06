@@ -1,0 +1,54 @@
+<math>
+      <mtable id="horizontal">
+        <mtr>
+          <mtd>
+            <mspace width="10px" height="10px" style="background: lightblue;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="40px" height="10px" style="background: lightgreen;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="30px" height="10px" style="background: cyan;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: purple;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="50px" height="10px" style="background: orange;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="100px" height="10px" style="background: blue;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="90px" height="10px" style="background: green;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="70px" height="10px" style="background: yellow;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="80px" height="10px" style="background: red;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="40px" height="10px" style="background: black;"/>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

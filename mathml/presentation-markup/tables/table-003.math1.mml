@@ -1,0 +1,54 @@
+<math>
+      <mtable id="horizontal">
+        <mtr>
+          <mtd>
+            <mrow><mspace width="10px" height="10px" style="background: lightblue;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="40px" height="10px" style="background: lightgreen;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="30px" height="10px" style="background: cyan;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="20px" height="10px" style="background: purple;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="50px" height="10px" style="background: orange;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="100px" height="10px" style="background: blue;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="90px" height="10px" style="background: green;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="70px" height="10px" style="background: yellow;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="80px" height="10px" style="background: red;"/></mrow>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mrow><mspace width="40px" height="10px" style="background: black;"/></mrow>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

@@ -1,0 +1,6 @@
+<math>
+  <msqrt>
+    <mspace id="aboveSqrt" width="10px" height="30px" style="background: purple"/>
+    <mspace id="belowSqrt" width="10px" depth="30px" style="background: blue"/>
+  </msqrt>
+</math>

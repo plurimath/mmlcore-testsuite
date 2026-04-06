@@ -1,0 +1,17 @@
+<math>
+      <msubsup id="msubsup-reference-2">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+      </msubsup>
+      <msubsup id="msubsup-reference-3">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+        <mspace width="10px" height="30px" style="background: black;"/>
+      </msubsup>
+      <msubsup id="msubsup-reference-4">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+        <mspace width="10px" height="30px" style="background: black;"/>
+        <mspace width="10px" height="40px" style="background: black;"/>
+      </msubsup>
+    </math>

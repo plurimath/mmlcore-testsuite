@@ -1,0 +1,13 @@
+<math displaystyle="true">
+    <munderover>
+      <mstyle displaystyle="false">
+        <mo id="munderover_base">⫿</mo>
+      </mstyle>
+      <mstyle displaystyle="true">
+        <mo id="munderover_underscript">⫿</mo>
+      </mstyle>
+      <mstyle displaystyle="true">
+        <mo id="munderover_overscript">⫿</mo>
+      </mstyle>
+    </munderover>
+  </math>

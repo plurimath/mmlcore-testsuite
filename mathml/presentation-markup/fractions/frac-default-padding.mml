@@ -1,0 +1,8 @@
+<math>
+        <mspace width="150px" height="75px" depth="75px" style="background: green"/>
+        <mfrac style="color: green; font-size: 15em">
+          <mspace id="numerator" width="150px"/>
+          <mspace/>
+        </mfrac>
+        <mspace width="150px" height="75px" depth="75px" style="background: green"/>
+      </math>

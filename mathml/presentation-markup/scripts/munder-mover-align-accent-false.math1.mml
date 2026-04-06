@@ -1,0 +1,6 @@
+<math>
+            <mover>
+              <mspace height="15px" width="25px" mathbackground="blue"/>
+              <mspace height="15px" width="75px" mathbackground="red"/>
+            </mover>
+          </math>

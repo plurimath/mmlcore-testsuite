@@ -1,0 +1,12 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- mpadded is space-like when it contains only space-like elements. -->
+        <mpadded id="mpadded1" class="testedElement">
+          <mtext>X</mtext>
+          <mspace width="25px" height="10px"/>
+        </mpadded>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

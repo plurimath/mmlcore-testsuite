@@ -1,0 +1,10 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mover>
+          <mtext>abcdef</mtext>
+          <mrow>
+            <mtext>g</mtext>
+            <mphantom><mo>¯</mo></mphantom>
+            <mtext>h</mtext>
+          </mrow>
+        </mover>
+      </math>

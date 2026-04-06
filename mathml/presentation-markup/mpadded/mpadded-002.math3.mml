@@ -1,0 +1,5 @@
+<math>
+      <mpadded id="dynamic-attach" style="background: lightgreen"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="dynamic-remove" width="10px" height="20px" depth="30px" style="background: lightyellow"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="dynamic-modify" width="100px" height="200px" depth="300px" style="background: pink"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+    </math>

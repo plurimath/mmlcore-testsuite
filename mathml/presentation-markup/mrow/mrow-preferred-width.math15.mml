@@ -1,0 +1,15 @@
+<math>
+  <mstyle class="mrow-like">
+    <mtext>blah</mtext>
+    <mfrac>
+      <msub>
+        <mrow>
+          <mo lspace="30px" rspace="20px">|</mo>
+        </mrow>
+        <mn>3</mn>
+      </msub>
+      <mn>4</mn>
+    </mfrac>
+    <mn>2</mn>
+  </mstyle>
+</math>

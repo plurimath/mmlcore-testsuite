@@ -1,0 +1,9 @@
+<math>
+      <mrow>
+        <mspace width="1em" height="3em" depth="3em" style="background: blue"/>
+        <mo id="horizontal_arrow" stretchy="true">⥚</mo>
+        <mo id="vertical_arrow" stretchy="true">⥜</mo>
+        <mo id="non_stretchy_horizontal_arrow" stretchy="false">⥚</mo>
+        <mo id="non_stretchy_vertical_arrow" stretchy="false">⥜</mo>
+      </mrow>
+    </math>

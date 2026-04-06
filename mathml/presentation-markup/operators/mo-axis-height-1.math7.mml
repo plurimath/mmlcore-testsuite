@@ -1,0 +1,8 @@
+<math style="font-family: axisheight5000-verticalarrow14000;">
+      <mspace id="baseline8" style="background: blue" width="50px" height="1px"/>
+      <mpadded voffset="50px"><mspace style="background: cyan" width="50px" height="1px"/></mpadded>
+      <mrow>
+        <mo id="mo8" symmetric="true" minsize="14em" style="color: green">↨</mo>
+        <mpadded id="target8" style="background: gray" width="10px" height="6em" depth="1em"><mn>8</mn></mpadded>
+      </mrow>
+    </math>

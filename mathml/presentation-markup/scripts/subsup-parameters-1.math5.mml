@@ -1,0 +1,23 @@
+<math style="font-family: superscriptshiftupcramped5000;">
+        <msqrt>
+          <mspace id="ref201" height="1em" width="1em" style="background: green"/>
+          <msup>
+            <mspace height="2em" width="2em" style="background: blue"/>
+            <mspace id="sup202" height="1em" width="1em" style="background: red"/>
+          </msup>
+          <msubsup>
+            <mspace height="2em" width="2em" style="background: blue"/>
+            <mspace height="1em" width="1em" style="background: blue"/>
+            <mspace id="sup203" height="1em" width="1em" style="background: red"/>
+          </msubsup>
+          <mmultiscripts>
+            <mspace height="2em" width="2em" style="background: blue"/>
+            <none/>
+            <mspace id="sup2041" height="1em" width="1em" style="background: red"/>
+            <none/>
+            <mspace id="sup2042" height="1em" width="1em" style="background: red"/>
+            <none/>
+            <mspace id="sup2043" height="1em" width="1em" style="background: red"/>
+          </mmultiscripts>
+        </msqrt>
+      </math>

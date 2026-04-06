@@ -1,0 +1,6 @@
+<math>
+      <a id="link" href="#target">
+        <mspace id="space" width="150px" height="150px" style="background: red"/>
+      </a>
+      <mrow id="notALink" href="#badTarget"/>
+    </math>

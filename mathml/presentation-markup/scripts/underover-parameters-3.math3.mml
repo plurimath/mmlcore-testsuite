@@ -1,0 +1,30 @@
+<math style="font-family: accentbaseheight4000overbarverticalgap11000;">
+        <mspace id="ref004" height="1em" width="3em" style="background: green"/>
+        <mover style="background: cyan" id="el0041">
+          <mspace id="base0041" height="3em" width="1em" style="background: black"/>
+          <mspace id="over0041" height="1em" width="3em" style="background: red"/>
+        </mover>
+        <mover style="background: cyan" id="el0042" accent="true">
+          <mspace id="base0042" height="5em" width="1em" style="background: black"/>
+          <mspace id="over0042" height="1em" width="3em" style="background: red"/>
+        </mover>
+        <mover style="background: cyan" id="el0043" accent="true">
+          <mspace id="base0043" height="3em" width="1em" style="background: black"/>
+          <mspace id="over0043" height="1em" width="3em" style="background: red"/>
+        </mover>
+        <munderover style="background: cyan" id="el0044">
+          <mspace id="base0044" height="3em" width="1em" style="background: black"/>
+          <mspace id="under0044" height="1em" width="3em" style="background: blue"/>
+          <mspace id="over0044" height="1em" width="3em" style="background: red"/>
+        </munderover>
+        <munderover style="background: cyan" id="el0045" accent="true">
+          <mspace id="base0045" height="5em" width="1em" style="background: black"/>
+          <mspace id="under0045" height="1em" width="3em" style="background: blue"/>
+          <mspace id="over0045" height="1em" width="3em" style="background: red"/>
+        </munderover>
+        <munderover style="background: cyan" id="el0046" accent="true">
+          <mspace id="base0046" height="3em" width="1em" style="background: black"/>
+          <mspace id="under0046" height="1em" width="3em" style="background: blue"/>
+          <mspace id="over0046" height="1em" width="3em" style="background: red"/>
+        </munderover>
+      </math>

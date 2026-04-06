@@ -1,0 +1,10 @@
+<math>
+      <mtable id="m3">
+        <mtr>
+          <mtd>
+            <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+            <mfrac><mn>1</mn><mn>2</mn></mfrac>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

@@ -1,0 +1,9 @@
+<math>
+      <mover accent="true" id="mover-004">
+        <mn>0</mn>
+        <msup class="testedElement">
+          <mspace height="2em" width="2em"/>
+          <mspace height="1em" width="1em"/>
+        </msup>
+      </mover>
+    </math>

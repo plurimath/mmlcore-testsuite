@@ -1,0 +1,10 @@
+<math>
+      <mpadded id="none"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="width0" width="25px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="width1" width="50px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="width2" width="75px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="height0" height="25px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="height1" height="50px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="height2" height="75px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="percentages" width="50%" height="33%" depth="10%"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+    </math>

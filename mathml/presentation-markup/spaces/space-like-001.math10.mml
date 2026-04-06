@@ -1,0 +1,12 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- merror is space-like when it contains only space-like elements. -->
+        <merror id="merror1" class="testedElement">
+          <mtext>X</mtext>
+          <mspace width="25px" height="10px"/>
+        </merror>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

@@ -1,0 +1,44 @@
+<math>
+      <mtable>
+        <mtr>
+          <mtd columnspan="4" rowspan="4">
+            <mspace width="160px" depth="160px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="40px" depth="40px" style="background: green"/>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

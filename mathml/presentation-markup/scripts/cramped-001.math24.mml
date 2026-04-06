@@ -1,0 +1,10 @@
+<math>
+      <munderover accent="true" id="munderover-004">
+        <msup class="testedElement">
+          <mspace height="2em" width="2em"/>
+          <mspace height="1em" width="1em"/>
+        </msup>
+        <mn>1</mn>
+        <mn>2</mn>
+      </munderover>
+    </math>

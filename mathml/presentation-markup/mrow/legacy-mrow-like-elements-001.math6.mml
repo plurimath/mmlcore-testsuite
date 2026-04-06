@@ -1,0 +1,8 @@
+<math>
+      <maction actiontype="toggle">
+        <mspace width="10px" height="10px"/>
+        <mspace width="10px" depth="10px"/>
+        <mspace width="10px" height="15px" depth="5px"/>
+        <mspace width="10px" height="5px" depth="15px"/>
+      </maction>
+    </math>

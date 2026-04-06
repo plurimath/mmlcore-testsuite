@@ -1,0 +1,8 @@
+<math style="font-family: RadicalFont2">
+        <mspace width="20px" height="10px" depth="10px" style="background: gray"/>
+        <mroot>
+          <mspace width="20px" height="10px" depth="10px" style="background: blue"/>
+          <mspace width="20px" height="10px" depth="10px" style="background: lightblue"/>
+        </mroot>
+        <mspace width="20px" height="10px" depth="10px" style="background: gray"/>
+      </math>

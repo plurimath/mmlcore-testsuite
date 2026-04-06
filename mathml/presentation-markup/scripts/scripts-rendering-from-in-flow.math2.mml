@@ -1,0 +1,20 @@
+<math id="mover">
+        <mover>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="128px" height="24px" style="background: lightblue"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="32px" height="16px" style="background: lightsalmon"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+        </mover>
+
+        <mover>
+          <mspace width="128px" height="24px" style="background: lightblue"/>
+          <mspace width="32px" height="16px" style="background: lightsalmon"/>
+        </mover>
+      </math>

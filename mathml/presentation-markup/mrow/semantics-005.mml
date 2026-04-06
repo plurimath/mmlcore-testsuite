@@ -1,0 +1,6 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+    <mover>
+      <mspace width="300px" height="10px" mathbackground="blue"/>
+      <semantics><mo>↬<!-- Rightwards Arrow With Loop --></mo></semantics>
+    </mover>
+  </math>

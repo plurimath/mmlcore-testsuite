@@ -1,0 +1,17 @@
+<math>
+      <mstyle displaystyle="true">
+        <mfrac>
+          <mrow>
+            <mn>X</mn>
+            <mo id="mathOperator">+</mo>
+            <mfrac>
+              <mrow><mn>X</mn></mrow>
+              <mrow><mn>X</mn></mrow>
+            </mfrac>
+          </mrow>
+          <mrow>
+            <mn>X</mn>
+          </mrow>
+        </mfrac>
+      </mstyle>
+    </math>

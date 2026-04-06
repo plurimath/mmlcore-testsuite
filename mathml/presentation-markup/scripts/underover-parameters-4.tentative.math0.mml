@@ -1,0 +1,30 @@
+<math style="font-family: accentbaseheight4000underbarextradescender5000;">
+        <mspace id="ref001" height="1em" width="3em" style="background: green"/>
+        <munder style="background: cyan" id="el0011">
+          <mspace id="base0011" height="3em" width="1em" style="background: black"/>
+          <mo id="under0011" style="color: blue">°</mo>
+        </munder>
+        <munder style="background: cyan" id="el0012">
+          <mspace id="base0012" height="5em" width="1em" style="background: black"/>
+          <mo id="under0012" style="color: blue">˘</mo>
+        </munder>
+        <munder style="background: cyan" id="el0013">
+          <mspace id="base0013" height="3em" width="1em" style="background: black"/>
+          <mo id="under0013" style="color: blue">˘</mo>
+        </munder>
+        <munderover style="background: cyan" id="el0014">
+          <mspace id="base0014" height="3em" width="1em" style="background: black"/>
+          <mo id="under0014" style="color: blue">°</mo>
+          <mo id="over0014" style="color: red">°</mo>
+        </munderover>
+        <munderover style="background: cyan" id="el0015" accent="true">
+          <mspace id="base0015" height="5em" width="1em" style="background: black"/>
+          <mo id="under0015" style="color: blue">˘</mo>
+          <mo id="over0015" style="color: red">˘</mo>
+        </munderover>
+        <munderover style="background: cyan" id="el0016" accent="true">
+          <mspace id="base0016" height="3em" width="1em" style="background: black"/>
+          <mo id="under0016" style="color: blue">˘</mo>
+          <mo id="over0016" style="color: red">˘</mo>
+        </munderover>
+      </math>

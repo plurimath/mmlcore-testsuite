@@ -1,0 +1,11 @@
+<math>
+      <mrow>
+        <!-- Some non-element nodes before -->
+        <mo id="mo_prefix_vertical_line" style="color: green">|</mo>
+        <mn id="mn_vertical_line">|</mn>
+        <mspace width="1em" height="3em" depth="3em" style="background: blue"/>
+        <mo id="mo_infix_vertical_line" lspace="0" rspace="0">|</mo>
+        <mo id="mo_postfix_vertical_line" style="color: green">|</mo>
+        <!-- Some non-element nodes after -->
+      </mrow>
+    </math>

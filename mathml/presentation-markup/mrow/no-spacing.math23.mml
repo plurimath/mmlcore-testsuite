@@ -1,0 +1,13 @@
+<math>
+      <mtable>
+        <mtr>
+          <mtd>
+            <munderover class="testedElement embellished">
+              <mo lspace="100px" rspace="100px">X</mo>
+              <mo lspace="100px" rspace="100px">X</mo>
+              <mo lspace="100px" rspace="100px">X</mo>
+            </munderover>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

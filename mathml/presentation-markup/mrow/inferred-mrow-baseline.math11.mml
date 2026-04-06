@@ -1,0 +1,6 @@
+<math>
+  <mprescripts>
+    <mspace id="aboveMprescripts" width="10px" height="30px" style="background: purple"/>
+    <mspace id="belowMprescripts" width="10px" depth="30px" style="background: blue"/>
+  </mprescripts>
+</math>

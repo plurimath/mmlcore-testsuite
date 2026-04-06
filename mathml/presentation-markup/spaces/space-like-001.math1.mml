@@ -1,0 +1,9 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- mspace is space-like. -->
+        <mspace class="testedElement" id="mspace" width="25px" height="10px"/>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

@@ -1,0 +1,14 @@
+<math display="block" style="width: 200px; height: 200px; background: green">
+      <mpadded width="5%" height="10px" class="red"/>
+      <mpadded width=" 5%" height="10px" class="red"/>
+      <mpadded width="5% " height="10px" class="red"/>
+      <mpadded width="10px" height="5%" class="red"/>
+      <mpadded width="10px" height=" 5%" class="red"/>
+      <mpadded width="10px" height="5% " class="red"/>
+      <mpadded width="10px" depth="5%" class="red"/>
+      <mpadded width="10px" depth=" 5%" class="red"/>
+      <mpadded width="10px" depth="5% " class="red"/>
+      <mpadded width="10px" height="5%" depth="5%" class="red"/>
+      <mpadded width="10px" height=" 5%" depth=" 5%" class="red"/>
+      <mpadded width="10px" height="5% " depth="5% " class="red"/>
+    </math>

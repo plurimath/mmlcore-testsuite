@@ -1,0 +1,25 @@
+<math dir="rtl">
+    <mtable>
+      <mtr>
+        <mtd>
+          <mn>22</mn>
+          <mrow data-title="child of mtd, embellished, RTL, normal text">
+            <mo lspace="1em" rspace="2em">+++</mo>
+          </mrow>
+          <mn>4444</mn>
+          <mrow data-title="child of mtd, embellished, RTL, largeop variant">
+            <mo lspace="3em" rspace="4em" largeop="true">⫿</mo>
+          </mrow>
+          <mn>55555</mn>
+          <mrow data-title="child of mtd, embellished, RTL, stretchy variant">
+            <mo lspace="5em" rspace="6em" stretchy="true" minsize="2em">⥜</mo>
+          </mrow>
+          <mn>666666</mn>
+          <mrow data-title="child of mtd, embellished, RTL, glyph assembly">
+            <mo lspace="7em" rspace="8em" stretchy="true" minsize="10em">⥜</mo>
+          </mrow>
+          <mn>7777777</mn>
+        </mtd>
+      </mtr>
+    </mtable>
+  </math>

@@ -1,0 +1,8 @@
+<math>
+    <mn id="plus3">+</mn>
+    <mrow>
+      <mo id="left3" fence="true" form="prefix">(</mo>
+      <mi>x</mi>
+      <mo id="right3" fence="true" form="postfix">)</mo>
+    </mrow>
+  </math>

@@ -1,0 +1,6 @@
+<math>
+  <mrow>
+    <mspace id="aboveMrow" width="10px" height="30px" style="background: purple"/>
+    <mspace id="belowMrow" width="10px" depth="30px" style="background: blue"/>
+  </mrow>
+</math>

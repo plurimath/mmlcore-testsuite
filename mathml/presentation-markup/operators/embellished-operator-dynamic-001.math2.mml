@@ -1,0 +1,17 @@
+<math display="block">
+    <mrow style="background: yellow">
+      <mn>5</mn>
+      <mrow style="background: orange">
+        <mrow>
+          <mrow>
+            <mo lspace="1em" rspace="1em">X</mo>
+          </mrow>
+        </mrow>
+          <mrow id="change_to_not_space_like">
+            <mspace/>
+            <mtext/>
+          </mrow>
+      </mrow>
+      <mn>6</mn>
+    </mrow>
+  </math>

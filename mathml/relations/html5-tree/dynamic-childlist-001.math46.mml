@@ -1,0 +1,8 @@
+<math>
+      <mspace id="mspace-reference-0" width="30px" height="70px" style="background: blue">
+      </mspace>
+      <mspace id="mspace-reference-2" width="30px" height="70px" style="background: green">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+       </mspace>
+    </math>

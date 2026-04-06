@@ -1,0 +1,6 @@
+<math>
+        <mfrac denomalign="left">
+          <mspace width="30px" height="20px" style="background: cyan;"/>
+          <mspace width="10px" height="20px" style="background: blue;"/>
+        </mfrac>
+      </math>

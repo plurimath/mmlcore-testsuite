@@ -1,0 +1,36 @@
+<math>
+      <mtable id="vertical">
+        <mtr>
+          <mtd>
+            <mspace width="10px" height="40px" depth="0px" style="background: lightblue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="0px" depth="40px" style="background: lightgreen;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="20px" depth="20px" style="background: cyan;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="30px" depth="10px" style="background: purple;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="10px" depth="30px" style="background: orange;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="80px" depth="0px" style="background: blue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="0px" depth="80px" style="background: green;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="40px" depth="40px" style="background: yellow;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="70px" depth="30px" style="background: red;"/>
+          </mtd>
+          <mtd>
+            <mspace width="10px" height="30px" depth="70px" style="background: black;"/>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

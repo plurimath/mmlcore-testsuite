@@ -1,0 +1,14 @@
+<math>
+  <semantics>
+    <csymbol>Content MathML</csymbol>
+    <annotation-xml encoding="SVG1.1">
+      <svg xmlns="http://www.w3.org/2000/svg" height="2em">
+        <text y="1em">SVG1.1</text>
+      </svg>
+    </annotation-xml>
+    <annotation-xml encoding="application/mathml-presentation+xml">
+      <mtext>error</mtext>
+    </annotation-xml>
+    <annotation>error</annotation>
+  </semantics>
+</math>

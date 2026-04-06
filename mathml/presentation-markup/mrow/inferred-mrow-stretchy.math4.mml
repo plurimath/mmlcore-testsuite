@@ -1,0 +1,7 @@
+<math>
+  <mphantom>
+    <mo style="visibilty: visible;" id="moPhantom">↨</mo>
+    <mspace width="1px" height="100px" style="background: magenta"/>
+    <mn/>
+  </mphantom>
+</math>

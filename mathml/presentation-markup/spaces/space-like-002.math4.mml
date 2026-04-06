@@ -1,0 +1,10 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- semantics is not space-like when its first does not exist-like -->
+        <semantics id="semantics2" class="testedElement" actiontype="statusline">
+        </semantics>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

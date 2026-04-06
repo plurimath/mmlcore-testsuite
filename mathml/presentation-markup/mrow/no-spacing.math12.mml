@@ -1,0 +1,10 @@
+<math>
+      <mmultiscripts class="testedElement embellished">
+        <mo lspace="100px" rspace="100px">X</mo>
+        <mo lspace="100px" rspace="100px">X</mo>
+        <mo lspace="100px" rspace="100px">X</mo>
+        <mprescripts/>
+        <mo lspace="100px" rspace="100px">X</mo>
+        <mo lspace="100px" rspace="100px">X</mo>
+      </mmultiscripts>
+    </math>

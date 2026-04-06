@@ -1,0 +1,18 @@
+<math display="block">
+    <mrow style="background: yellow">
+      <mn>7</mn>
+      <mrow style="background: orange">
+        <mrow>
+          <mrow>
+            <mo lspace="1em" rspace="1em">X</mo>
+          </mrow>
+          <mrow id="change_to_space_like">
+            <mspace/>
+            <mtext/>
+            <mn/>
+          </mrow>
+        </mrow>
+      </mrow>
+      <mn>8</mn>
+    </mrow>
+  </math>

@@ -1,0 +1,7 @@
+<math>
+  <mpadded lspace="10px">
+    <mo id="moMpadded">↨</mo>
+    <mspace width="1px" height="100px" style="background: magenta"/>
+    <mn/>
+  </mpadded>
+</math>

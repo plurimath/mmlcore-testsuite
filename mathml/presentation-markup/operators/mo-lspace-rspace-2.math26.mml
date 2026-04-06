@@ -1,0 +1,32 @@
+<math>
+        <menclose notation="circle">
+          <mo>*</mo>
+          <mo>*</mo>
+        </menclose>
+        <msub>
+          <mo>*</mo>
+          <mo>*</mo>
+        </msub>
+        <msup>
+          <mo>*</mo>
+          <mo>*</mo>
+        </msup>
+        <msubsup>
+          <mo>*</mo>
+          <mo>*</mo>
+          <mo>*</mo>
+        </msubsup>
+        <munder>
+          <mo>*</mo>
+          <mo>*</mo>
+        </munder>
+        <mover>
+          <mo>*</mo>
+          <mo>*</mo>
+        </mover>
+        <munderover>
+          <mo>*</mo>
+          <mo>*</mo>
+          <mo>*</mo>
+        </munderover>
+      </math>

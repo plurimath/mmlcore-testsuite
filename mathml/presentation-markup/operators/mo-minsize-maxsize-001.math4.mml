@@ -1,0 +1,7 @@
+<math>
+      <mrow>
+        <mspace width="1em" height="6em" style="background: blue"/>
+        <mo id="percent_minsize" minsize="1200%" stretchy="true" symmetric="false">⥯</mo>
+        <mpadded height="0" depth="0"><mn><!-- not space like --></mn></mpadded>
+      </mrow>
+    </math>

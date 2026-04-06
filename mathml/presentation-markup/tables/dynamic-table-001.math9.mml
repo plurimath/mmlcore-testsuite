@@ -1,0 +1,35 @@
+<math>
+      <mtable data-title="Removing extra elements">
+        <mtr>
+          <mtd><mspace height="10px" width="10px" style="background: black;"/></mtd>
+          <mtd><mspace height="10px" width="20px" style="background: black;"/></mtd>
+          <mtd><mspace height="10px" width="30px" style="background: black;"/></mtd>
+          <mtd><mspace height="10px" width="40px" style="background: black;"/></mtd>
+          <mtd><mspace height="10px" width="50px" style="background: red;"/></mtd><!-- extra mtd -->
+        </mtr>
+        <mtr>
+          <mtd><mspace height="20px" width="10px" style="background: black;"/></mtd>
+          <mtd><mspace height="20px" width="20px" style="background: black;"/></mtd>
+          <mtd><mspace height="20px" width="30px" style="background: black;"/></mtd>
+          <mtd><mspace height="20px" width="40px" style="background: black;"/><mspace height="20px" width="40px" style="background: red;"/><!-- extra child--></mtd>
+        </mtr>
+        <mtr>
+          <mtd><mspace height="30px" width="10px" style="background: black;"/></mtd>
+          <mtd><mspace height="30px" width="20px" style="background: black;"/></mtd>
+          <mtd><mspace height="30px" width="30px" style="background: black;"/></mtd>
+          <mtd><mspace height="30px" width="40px" style="background: black;"/></mtd>
+        </mtr>
+        <mtr>
+          <mtd><mspace height="40px" width="10px" style="background: black;"/></mtd>
+          <mtd><mspace height="40px" width="20px" style="background: black;"/></mtd>
+          <mtd><mspace height="40px" width="30px" style="background: black;"/></mtd>
+          <mtd><mspace height="40px" width="40px" style="background: black;"/></mtd>
+        </mtr>
+        <mtr>
+          <mtd><mspace height="50px" width="10px" style="background: red;"/></mtd>
+          <mtd><mspace height="50px" width="20px" style="background: red;"/></mtd>
+          <mtd><mspace height="50px" width="30px" style="background: red;"/></mtd>
+          <mtd><mspace height="50px" width="40px" style="background: red;"/></mtd>
+        </mtr> <!-- extra row -->
+      </mtable>
+    </math>

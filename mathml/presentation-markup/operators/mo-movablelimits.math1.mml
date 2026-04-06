@@ -1,0 +1,10 @@
+<math displaystyle="true">
+      <munder>
+        <mo lspace="0px" rspace="0px" movablelimits="true">A</mo>
+        <mi>B</mi>
+      </munder>
+      <munder>
+        <mo lspace="0px" rspace="0px" movablelimits="false">A</mo>
+        <mi>B</mi>
+      </munder>
+    </math>

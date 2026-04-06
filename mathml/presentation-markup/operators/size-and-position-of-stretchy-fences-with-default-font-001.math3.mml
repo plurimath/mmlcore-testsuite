@@ -1,0 +1,33 @@
+<math display="block">
+    <mrow>
+      <mo id="left4" fence="false" symmetric="true" minsize="2.4em" maxsize="2.4em">(</mo>
+      <mfrac>
+        <msup>
+          <mi>∂</mi>
+          <mn>2</mn>
+        </msup>
+        <mrow>
+          <mi>∂</mi>
+          <msup>
+            <mi>x</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+      </mfrac>
+      <mo id="plus4">+</mo>
+      <mfrac>
+        <msup>
+          <mi>∂</mi>
+          <mn>2</mn>
+        </msup>
+        <mrow>
+          <mi>∂</mi>
+          <msup>
+            <mi>y</mi>
+            <mn>2</mn>
+          </msup>
+        </mrow>
+      </mfrac>
+      <mo id="right4" fence="false" symmetric="true" minsize="2.4em" maxsize="2.4em">)</mo>
+    </mrow>
+  </math>

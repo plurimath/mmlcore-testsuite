@@ -1,0 +1,7 @@
+<math>
+            <munderover accent="true" accentunder="true">
+              <mspace height="15px" width="50px" mathbackground="blue"/>
+              <mspace height="15px" width="25px" mathbackground="red"/>
+              <mspace height="15px" width="75px" mathbackground="red"/>
+            </munderover>
+          </math>

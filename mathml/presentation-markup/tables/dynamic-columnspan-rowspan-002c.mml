@@ -1,0 +1,60 @@
+<math>
+      <mtable>
+        <mtr>
+          <mtd id="mtd" rowspan="3">
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+          <mtd>
+            <mspace width="50px" depth="50px" style="background: green"/>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

@@ -1,0 +1,7 @@
+<math dir="rtl">
+        <msubsup>
+          <mspace width="20px" height="20px"/>
+          <mspace width="20px" height="20px" mathbackground="green"/>
+          <mspace width="20px" height="20px" mathbackground="blue"/>
+        </msubsup>
+      </math>

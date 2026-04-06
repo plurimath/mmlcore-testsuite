@@ -1,0 +1,9 @@
+<math dir="rtl">
+        <mspace width="1px" height="25px" mathbackground="black"/>
+        <mpadded lspace="25px" width="150px">
+          <mspace width="25px" height="25px" mathbackground="red"/>
+          <mspace width="25px" height="25px" mathbackground="green"/>
+          <mspace width="25px" height="25px" mathbackground="blue"/>
+        </mpadded>
+        <mspace width="1px" height="25px" mathbackground="black"/>
+      </math>

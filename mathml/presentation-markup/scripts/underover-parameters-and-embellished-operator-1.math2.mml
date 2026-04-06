@@ -1,0 +1,12 @@
+<math style="font-family: upperlimitbaselinerisemin5000;">
+        <mspace id="ref0003" height="1em" width="3em" style="background: green"/>
+        <mover>
+          <mrow><mrow><mo movablelimits="false">∑</mo></mrow></mrow>
+          <mspace id="over00031" height="1em" width="3em" style="background: blue"/>
+        </mover>
+        <munderover>
+          <mrow><mrow><mo movablelimits="false">∑</mo></mrow></mrow>
+          <mspace height="1em" width="3em" style="background: black"/>
+          <mspace id="over00032" height="1em" width="3em" style="background: blue"/>
+        </munderover>
+      </math>

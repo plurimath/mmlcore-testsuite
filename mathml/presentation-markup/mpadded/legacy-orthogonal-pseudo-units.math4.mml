@@ -1,0 +1,5 @@
+<math>
+      <mpadded class="testedElement" lspace="200%depth">
+        <mspace width="10px" height="20px" depth="30px" style="background: blue"/>
+      </mpadded>
+    </math>

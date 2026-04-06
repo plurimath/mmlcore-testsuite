@@ -1,0 +1,23 @@
+<math>
+        <mmultiscripts subscriptshift="300px" superscriptshift="300px">
+          <mspace width="30px" height="30px" style="background: blue;"/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+          <mprescripts/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+        </mmultiscripts>
+        <msub subscriptshift="300px">
+          <mspace width="30px" height="30px" style="background: blue;"/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+        </msub>
+        <msup superscriptshift="300px">
+          <mspace width="30px" height="30px" style="background: blue;"/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+        </msup>
+        <msubsup subscriptshift="300px" superscriptshift="300px">
+          <mspace width="30px" height="30px" style="background: blue;"/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+          <mspace width="10px" height="10px" style="background: lightgreen;"/>
+        </msubsup>
+      </math>

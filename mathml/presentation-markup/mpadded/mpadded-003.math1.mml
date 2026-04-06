@@ -1,0 +1,8 @@
+<math dir="rtl">
+      <mpadded lspace="5px" style="background: black"><mspace width="10px" depth="15px" height="20px" style="background: green; opacity: .5"/></mpadded>
+      <mpadded lspace="-5px" style="background: black"><mspace width="10px" depth="15px" height="20px" style="background: green; opacity: .5"/></mpadded>
+      <mpadded voffset="10px" style="background: black"><mspace width="10px" depth="15px" height="20px" style="background: green; opacity: .5"/></mpadded>
+      <mpadded voffset="-10px" style="background: black"><mspace width="10px" depth="15px" height="20px" style="background: green; opacity: .5"/></mpadded>
+      <mpadded lspace="5px" voffset="10px" style="background: black"><mspace width="10px" depth="15px" height="20px" style="background: green; opacity: .5"/></mpadded>
+      <mpadded lspace="5px" voffset="-10px" style="background: black"><mspace width="10px" depth="15px" height="20px" style="background: green; opacity: .5"/></mpadded>
+    </math>

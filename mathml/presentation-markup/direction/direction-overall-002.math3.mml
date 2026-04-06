@@ -1,0 +1,10 @@
+<math dir="rtl">
+        <mmultiscripts>
+          <mspace/>
+          <mspace width="20px" height="20px" mathbackground="cyan"/>
+          <mspace width="20px" height="20px" mathbackground="yellow"/>
+          <mprescripts/>
+          <mspace width="20px" height="20px"/>
+          <mspace width="20px" height="20px"/>
+        </mmultiscripts>
+      </math>

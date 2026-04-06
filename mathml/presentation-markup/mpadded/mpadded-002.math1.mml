@@ -1,0 +1,8 @@
+<math>
+      <mpadded id="depth0" depth="25px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="depth1" depth="50px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="depth2" depth="75px"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="mpadded0" width="25px" height="50px" depth="75px" style="background: green"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="mpadded1" width="50px" height="75px" depth="25px" style="background: blue"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+      <mpadded id="mpadded2" width="75px" height="25px" depth="50px" style="background: green"><mspace width="100px" depth="125px" height="150px" style="background: black; opacity: .5"/></mpadded>
+    </math>

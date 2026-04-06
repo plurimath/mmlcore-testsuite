@@ -1,0 +1,17 @@
+<math>
+      <mstyle displaystyle="true">
+        <munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+        </munder>
+        <mover>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+        </mover>
+        <munderover>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+        </munderover>
+      </mstyle>
+    </math>

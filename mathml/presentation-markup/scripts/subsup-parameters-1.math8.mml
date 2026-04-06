@@ -1,0 +1,15 @@
+<math style="font-family: subsuperscriptgapmin11000superscriptbottommaxwithsubscript3000;">
+        <mspace id="ref500" height="1em" width="1em" style="background: green"/>
+        <msubsup>
+          <mspace height="2em" width="2em" style="background: blue"/>
+          <mspace id="sub501" height="1em" width="1em" style="background: red"/>
+          <mspace id="sup501" height="1em" width="1em" style="background: red"/>
+        </msubsup>
+        <mmultiscripts>
+          <mspace height="2em" width="2em" style="background: blue"/>
+          <none/>
+          <none/>
+          <mspace id="sub502" height="1em" width="1em" style="background: red"/>
+          <mspace id="sup502" height="1em" width="1em" style="background: red"/>
+        </mmultiscripts>
+      </math>

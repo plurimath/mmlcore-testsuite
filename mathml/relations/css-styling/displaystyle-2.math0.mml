@@ -1,0 +1,16 @@
+<math displaystyle="true">
+    <mtable>
+      <mtr>
+        <mtd>
+          <mstyle displaystyle="false">
+            <mo id="cell_false">⫿</mo>
+          </mstyle>
+        </mtd>
+        <mtd>
+          <mstyle displaystyle="true">
+            <mo id="cell_true">⫿</mo>
+          </mstyle>
+        </mtd>
+      </mtr>
+    </mtable>
+  </math>

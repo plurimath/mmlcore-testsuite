@@ -1,0 +1,6 @@
+<math>
+      <mfrac id="negative" linethickness="-1.23em">
+        <mspace width="20px" height="10px" style="background: blue"/>
+        <mspace width="20px" height="10px" style="background: cyan"/>
+      </mfrac>
+    </math>

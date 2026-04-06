@@ -1,0 +1,6 @@
+<math>
+      <maction actiontype="toggle" id="target">
+        <mspace width="150px" height="150px" style="background: green"/>
+        <mspace width="150px" height="150px" style="background: red"/>
+      </maction>
+    </math>

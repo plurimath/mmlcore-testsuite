@@ -1,0 +1,9 @@
+<math mode="display">
+<mover>
+  <mrow id="mrow">hovering over this should not crash Mozilla</mrow>
+  <mover>
+    <mo>10</mo>
+    <mrow>times</mrow>
+  </mover>
+</mover>
+</math>

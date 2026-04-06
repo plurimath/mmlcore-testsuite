@@ -1,0 +1,8 @@
+<math>
+      <mn>X</mn>
+      <mphantom id="mphantom-nonop-1" class="testedElement">
+        <mo lspace="2em" rspace="0em">X</mo>
+        <mn>X</mn> <!-- "mn" is not space-like -->
+      </mphantom>
+      <mn>X</mn>
+    </math>

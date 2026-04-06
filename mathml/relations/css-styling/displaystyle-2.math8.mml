@@ -1,0 +1,10 @@
+<math displaystyle="true">
+    <mover>
+      <mstyle displaystyle="false">
+        <mo id="mover_base">⫿</mo>
+      </mstyle>
+      <mstyle displaystyle="true">
+        <mo id="mover_overscript">⫿</mo>
+      </mstyle>
+    </mover>
+  </math>

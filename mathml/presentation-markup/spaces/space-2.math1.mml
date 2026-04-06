@@ -1,0 +1,5 @@
+<math style="position: absolute; top: 0px; left: 0px">
+        <mspace width="100px" height="20px" depth="20px" style="background: red"/>
+        <mspace width="50px" height="100px" style="background: red"/>
+        <mspace width="50px" depth="100px" style="background: red"/>
+      </math>

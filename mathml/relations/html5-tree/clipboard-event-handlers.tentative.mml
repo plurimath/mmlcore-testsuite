@@ -1,0 +1,3 @@
+<math oncopy="window.copyHappened1 = true" oncut="window.cutHappened1 = true" onpaste="window.pasteHappened1 = true">
+  <mi>E</mi>
+</math>

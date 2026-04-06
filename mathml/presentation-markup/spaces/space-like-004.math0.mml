@@ -1,0 +1,59 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- This element is space-like because it is made of nested
+             mrow, mstyle, mpadded, mphantom, mtext, mspace
+          -->
+        <mrow class="testedElement" id="complex1">
+          <mtext>X</mtext>
+          <mstyle>
+            <mstyle>
+              <mtext>X</mtext>
+              <mtext>X</mtext>
+            </mstyle>
+            <mtext>X</mtext>
+            <mspace width="25px"/>
+            <mpadded>
+              <mtext>X</mtext>
+              <mrow/>
+              <mtext>X</mtext>
+              <mspace width="25px"/>
+              <mphantom>
+                <mtext>X</mtext>
+                <mspace width="25px"/>
+              </mphantom>
+              <mrow>
+                <mtext>X</mtext>
+                <mtext>X</mtext>
+              </mrow>
+              <mspace width="25px"/>
+            </mpadded>
+            <mspace width="25px"/>
+            <mtext>X</mtext>
+            <mspace width="25px"/>
+            <mpadded>
+              <mphantom>
+                <mtext>X</mtext>
+                <mspace width="25px"/>
+              </mphantom>
+              <mtext>X</mtext>
+              <mtext>X</mtext>
+              <mspace width="25px"/>
+              <mtext>X</mtext>
+              <mtext>X</mtext>
+              <mspace width="25px"/>
+              <mphantom>
+                <mtext>X</mtext>
+                <mspace width="25px"/>
+              </mphantom>
+              <mtext>X</mtext>
+              <mtext>X</mtext>
+              <mspace width="25px"/>
+            </mpadded>
+          </mstyle>
+          <mspace width="25px"/>
+        </mrow>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

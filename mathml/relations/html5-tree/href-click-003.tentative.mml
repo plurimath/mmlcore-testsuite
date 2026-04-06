@@ -1,0 +1,5 @@
+<math>
+      <mspace width="50px" height="10px" style="background: gray"/>
+      <a id="target" href="javascript:handler()"><mspace width="50px" height="10px" style="background: blue"/></a>
+      <mspace width="50px" height="10px" style="background: gray"/>
+    </math>

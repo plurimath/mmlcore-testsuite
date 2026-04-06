@@ -1,0 +1,13 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- menclose is not space-like when it contains a non space-like
+             element such as "mn". -->
+        <menclose id="menclose2" class="testedElement">
+          <mn>X</mn>
+          <mspace width="25px" height="10px"/>
+        </menclose>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

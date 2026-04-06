@@ -1,0 +1,12 @@
+<math style="color: red">
+        <mfenced>
+          <mspace width="30px" height="30px" style="background: green"/>
+          <mspace width="30px" height="30px" style="background: lightgreen"/>
+          <mspace width="30px" height="30px" style="background: green"/>
+        </mfenced>
+        <mfenced open="{" close="]" separators="?!">
+          <mspace width="30px" height="30px" style="background: lightgreen"/>
+          <mspace width="30px" height="30px" style="background: green"/>
+          <mspace width="30px" height="30px" style="background: lightgreen"/>
+        </mfenced>
+      </math>

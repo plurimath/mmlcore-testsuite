@@ -1,0 +1,8 @@
+<math>
+      <mn>X</mn>
+      <merror id="merror-nonop-1" class="testedElement">
+        <mo lspace="2em" rspace="0em">X</mo>
+        <mn>X</mn> <!-- "mn" is not space-like -->
+      </merror>
+      <mn>X</mn>
+    </math>

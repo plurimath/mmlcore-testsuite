@@ -1,0 +1,8 @@
+<math>
+      <mrow>
+        <mspace width="1em" height="3em" style="background: blue"/>
+        <mo id="symmetric_set_true" symmetric="false" stretchy="true">⥯</mo>
+        <mo id="symmetric_set_false" symmetric="true" stretchy="true">⥯</mo>
+        <mn><!-- not space like --></mn>
+      </mrow>
+    </math>

@@ -1,0 +1,13 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- mphantom is not space-like when it contains a non space-like
+             element such as "mn". -->
+        <mphantom id="mphantom2" class="testedElement">
+          <mn>X</mn>
+          <mspace width="25px" height="10px"/>
+        </mphantom>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

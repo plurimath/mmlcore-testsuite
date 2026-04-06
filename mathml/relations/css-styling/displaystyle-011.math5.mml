@@ -1,0 +1,20 @@
+<math>
+      <mstyle displaystyle="false">
+        <mtable displaystyle="true">
+          <mtr>
+            <mtd>
+              <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mstyle>
+      <mstyle displaystyle="true">
+        <mtable>
+          <mtr>
+            <mtd>
+              <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+            </mtd>
+          </mtr>
+        </mtable>
+      </mstyle>
+    </math>

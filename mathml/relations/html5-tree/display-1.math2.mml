@@ -1,0 +1,3 @@
+<math display="block" id="math_with_specified_width" style="background: pink; width:100px">
+  <mspace id="mspace_width" width="50px" height="50px"/>
+</math>

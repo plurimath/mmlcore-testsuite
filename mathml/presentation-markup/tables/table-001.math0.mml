@@ -1,0 +1,111 @@
+<math>
+      <mtable id="table-001">
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: lightblue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: lightgreen;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: blue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: green;"/>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable id="table-002">
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: lightblue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: lightgreen;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: cyan;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: purple;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: blue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: green;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: yellow;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: orange;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: black;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: red;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: gray;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: maroon;"/>
+          </mtd>
+        </mtr>
+      </mtable>
+      <mtable id="table-003">
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: lightblue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: lightgreen;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: cyan;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: blue;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: green;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: orange;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: black;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: maroon;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: gray;"/>
+          </mtd>
+        </mtr>
+        <mtr>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: red;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: purple;"/>
+          </mtd>
+          <mtd>
+            <mspace width="20px" height="10px" style="background: yellow;"/>
+          </mtd>
+
+        </mtr>
+      </mtable>
+    </math>

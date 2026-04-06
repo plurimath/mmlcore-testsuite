@@ -1,0 +1,7 @@
+<math>
+        <mspace width="20px" height="10px" depth="10px" style="background: gray"/>
+        <msqrt>
+          <mspace width="20px" height="10px" depth="10px" style="background: blue"/>
+        </msqrt>
+        <mspace width="20px" height="10px" depth="10px" style="background: gray"/>
+      </math>

@@ -1,0 +1,10 @@
+<math>
+      <mrow>
+        <mspace id="before1" width="1em" height="1em" depth="1em" style="background: blue"/>
+        <mrow style="font-size: 50%;">
+          <mo id="operator1" lspace="1em" rspace="0em" minsize="8em">⥯</mo>
+          <mspace id="after1" width="1em" height=".5em" depth=".5em" style="background: green"/>
+        </mrow>
+        <mn><!-- not space like --></mn>
+      </mrow>
+    </math>

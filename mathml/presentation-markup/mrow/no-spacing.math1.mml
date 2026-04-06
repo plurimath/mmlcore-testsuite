@@ -1,0 +1,9 @@
+<math>
+      <mrow>
+        <mn><!-- make sure parent mrow is not an embellished operator --></mn>
+        <mfrac class="testedElement embellished">
+          <mo lspace="100px" rspace="100px">X</mo>
+          <mo lspace="100px" rspace="100px">X</mo>
+        </mfrac>
+      </mrow>
+    </math>

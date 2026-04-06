@@ -1,0 +1,10 @@
+<math display="block">
+    <mtable>
+      <mtr class="fixed">
+        <mtd><mi>x</mi></mtd>
+      </mtr>
+      <mtr>
+        <mtd><mi>y</mi></mtd>
+      </mtr>
+    </mtable>
+  </math>

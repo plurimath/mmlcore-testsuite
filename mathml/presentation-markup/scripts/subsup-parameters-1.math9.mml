@@ -1,0 +1,7 @@
+<math style="font-family: subscripttopmax4000;">
+        <mspace id="ref600" height="1em" width="1em" style="background: green"/>
+        <msub>
+          <mspace height="2em" width="2em" style="background: blue"/>
+          <mspace id="sub601" height="10em" width="1em" style="background: red"/>
+        </msub>
+      </math>

@@ -1,0 +1,8 @@
+<math style="font-family: axisheight5000-verticalarrow14000;">
+      <mspace id="baseline7" style="background: blue" width="50px" height="1px"/>
+      <mpadded voffset="50px"><mspace style="background: cyan" width="50px" height="1px"/></mpadded>
+      <mrow>
+        <mo id="mo7" maxsize="14em" style="color: green">↨</mo>
+        <mpadded id="target7" style="background: gray" width="10px" height="4em" depth="24em"><mn>7</mn></mpadded>
+      </mrow>
+    </math>

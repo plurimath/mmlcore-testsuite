@@ -1,0 +1,12 @@
+<math>
+      <mtable>
+        <mtr>
+          <mtd>
+            <mroot class="testedElement">
+              <mo lspace="100px" rspace="100px">X</mo>
+              <mo lspace="100px" rspace="100px">X</mo>
+            </mroot>
+          </mtd>
+        </mtr>
+      </mtable>
+    </math>

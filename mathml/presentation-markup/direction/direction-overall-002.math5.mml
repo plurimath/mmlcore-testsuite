@@ -1,0 +1,10 @@
+<math dir="rtl">
+        <mover>
+          <mpadded width="20px">
+            <mphantom>
+              <mo movablelimits="true" displaystyle="false">|</mo>
+            </mphantom>
+          </mpadded>
+          <mspace width="20px" height="20px" mathbackground="cyan"/>
+        </mover>
+      </math>

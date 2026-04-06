@@ -1,0 +1,10 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- maction is not space-like when its first does not exist-like -->
+        <maction id="maction2" class="testedElement" actiontype="statusline">
+        </maction>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

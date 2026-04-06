@@ -1,0 +1,24 @@
+<math>
+      <mtable data-title="Filling empty mtd elements">
+        <mtr>
+          <mtd/>
+          <mtd/>
+          <mtd/>
+        </mtr>
+        <mtr>
+          <mtd/>
+          <mtd/>
+          <mtd/>
+        </mtr>
+        <mtr>
+          <mtd/>
+          <mtd/>
+          <mtd/>
+        </mtr>
+        <mtr>
+          <mtd/>
+          <mtd/>
+          <mtd/>
+        </mtr>
+      </mtable>
+    </math>

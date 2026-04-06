@@ -1,0 +1,20 @@
+<math displaystyle="true">
+    <mmultiscripts>
+      <mstyle displaystyle="false">
+        <mo id="mmultiscripts_base">⫿</mo>
+      </mstyle>
+      <mstyle displaystyle="true">
+        <mo id="mmultiscripts_subscript">⫿</mo>
+      </mstyle>
+      <mstyle displaystyle="true">
+        <mo id="mmultiscripts_superscript">⫿</mo>
+      </mstyle>
+      <mprescripts/>
+      <mstyle displaystyle="true">
+        <mo id="mmultiscripts_presubscript">⫿</mo>
+      </mstyle>
+      <mstyle displaystyle="true">
+        <mo id="mmultiscripts_presuperscript">⫿</mo>
+      </mstyle>
+    </mmultiscripts>
+  </math>

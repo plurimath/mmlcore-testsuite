@@ -1,0 +1,4 @@
+<math>
+    <mtext id="fail" style="background: red; color: white;">FAIL</mtext>
+    <mtext id="pass" style="color: white;">PASS</mtext>
+  </math>

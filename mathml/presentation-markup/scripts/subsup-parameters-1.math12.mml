@@ -1,0 +1,6 @@
+<math style="font-family: superscriptbaselinedropmax10000;">
+        <msup>
+          <mspace id="base901" height="15em" width="2em" style="background: blue"/>
+          <mspace id="sup901" height="1em" width="1em" style="background: red"/>
+        </msup>
+      </math>

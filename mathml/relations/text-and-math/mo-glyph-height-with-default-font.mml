@@ -1,0 +1,26 @@
+<math style="position:absolute; top: 0; font-size:1em;  z-index: 0;" display="block">
+      <mrow>
+        <mo>|</mo>
+        <mrow>
+          <mi>f</mi>
+          <mrow>
+            <mn>(</mn>
+            <mi>x</mi>
+            <mn>)</mn>
+          </mrow>
+          <mn>−</mn>
+          <mrow>
+            <mi>f</mi>
+            <mrow>
+              <mn>(</mn>
+              <msub>
+                <mi>x</mi>
+                <mn>0</mn>
+              </msub>
+              <mn>)</mn>
+            </mrow>
+          </mrow>
+        </mrow>
+        <mo>|</mo>
+      </mrow>
+    </math>

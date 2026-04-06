@@ -1,0 +1,8 @@
+<math>
+  <mrow>
+    <mroot style="border: 30px solid blue; padding: 20px; color: gray">
+      <mspace width="100px" height="50px" depth="50px" style="margin: 10px"/>
+      <mspace width="20px" height="10px" depth="10px" style="margin: 5px"/>
+    </mroot>
+  </mrow>
+</math>

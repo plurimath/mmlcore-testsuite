@@ -1,0 +1,8 @@
+<math>
+      <mrow>
+        <!-- This contains only vertical stretchy operators. -->
+        <mo style="font-size: 50%" id="small_vertical" stretchy="true">⥜</mo>
+        <mo style="font-size: 200%" id="big_vertical" stretchy="true">⥜</mo>
+        <mo style="font-size: 100%" id="medium_vertical" stretchy="true">⥜</mo>
+      </mrow>
+    </math>

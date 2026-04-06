@@ -1,0 +1,12 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- maction is space-like when its first child exists and is space-like -->
+        <maction id="maction1" class="testedElement" actiontype="statusline">
+          <mtext>X</mtext>
+          <mtext>STATUS MESSAGE</mtext>
+        </maction>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

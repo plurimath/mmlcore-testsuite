@@ -1,0 +1,21 @@
+<math>
+      <mmultiscripts id="mmultiscripts-005">
+        <mn>0</mn>
+        <mn>1</mn>
+        <mn>2</mn>
+        <mn>3</mn>
+        <mn>4</mn>
+        <mn>5</mn>
+        <mn>6</mn>
+        <mprescripts/>
+        <mn>7</mn>
+        <mn>8</mn>
+        <mn>9</mn>
+        <msup class="testedElement">
+          <mspace height="2em" width="2em"/>
+          <mspace height="1em" width="1em"/>
+        </msup>
+        <mn>11</mn>
+        <mn>12</mn>
+      </mmultiscripts>
+    </math>

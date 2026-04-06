@@ -1,0 +1,12 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- semantics is not space-like when its first is not space-like -->
+        <semantics id="semantics3" class="testedElement" actiontype="statusline">
+          <mn>1</mn>
+          <annotation>TEXT ANNOTATION</annotation>
+        </semantics>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

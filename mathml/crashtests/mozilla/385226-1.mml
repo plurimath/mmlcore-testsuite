@@ -1,0 +1,12 @@
+<math display="block" class="collapse">
+    <mtable>
+      <mtr>
+        <mtd><mi>x</mi></mtd>
+        <mtd><mi>y</mi></mtd>
+      </mtr>
+      <caption class="capleft">
+        <mtd><mi>z</mi></mtd>
+        <mtd><mi>w</mi></mtd>
+      </caption>
+    </mtable>
+  </math>

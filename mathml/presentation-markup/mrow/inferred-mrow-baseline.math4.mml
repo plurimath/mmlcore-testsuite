@@ -1,0 +1,6 @@
+<math>
+  <mphantom>
+    <mspace style="visibility: visible;" id="abovePhantom" width="10px" height="30px"/>
+    <mspace style="visibility: visible;" id="belowPhantom" width="10px" depth="30px"/>
+  </mphantom>
+</math>

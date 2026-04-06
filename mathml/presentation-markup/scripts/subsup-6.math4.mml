@@ -1,0 +1,10 @@
+<math>
+      <mmultiscripts data-name="prescripts with padding/border/margin">
+        <mspace width="30px" height="15px" depth="15px" style="background: black"/>
+        <mspace width="30px" height="15px" depth="15px" style="background: black"/>
+        <mspace width="30px" height="15px" depth="15px" style="background: black"/>
+        <mprescripts style="background: blue;&#10;                            padding-top: 10px; border-top: 20px solid green;&#10;                            padding-bottom: 10px; border-bottom: 20px solid green;&#10;                            padding-left: 15px; border-left: 25px solid green;&#10;                            padding-right: 15px; border-right: 25px solid green;&#10;                            margin-top: 50px;"/>
+        <mspace width="30px" height="15px" depth="15px" style="background: black"/>
+        <mspace width="30px" height="15px" depth="15px" style="background: black"/>
+      </mmultiscripts>
+    </math>

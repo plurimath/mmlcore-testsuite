@@ -1,0 +1,11 @@
+<math displaystyle="true">
+      <mspace width="1em" height="1em" style="background: blue"/>
+      <mrow>
+        <mo id="largeop_set_true" largeop="false" stretchy="false">⥯</mo>
+        <mn><!-- not space like --></mn>
+      </mrow>
+      <mrow>
+        <mo id="largeop_set_false" largeop="true" stretchy="false">⥯</mo>
+        <mn><!-- not space like --></mn>
+      </mrow>
+    </math>

@@ -1,0 +1,12 @@
+<math style="font-family: gapbelowmin11000;">
+        <mspace id="ref0002" height="1em" width="3em" style="background: green"/>
+        <munder>
+          <mrow><mrow><mo>→</mo></mrow></mrow>
+          <mspace id="under00021" depth="1em" width="3em" style="background: blue"/>
+        </munder>
+        <munderover>
+          <mrow><mrow><mo>→</mo></mrow></mrow>
+          <mspace id="under00022" depth="1em" width="3em" style="background: blue"/>
+          <mspace height="1em" width="3em" style="background: black"/>
+        </munderover>
+      </math>

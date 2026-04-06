@@ -1,0 +1,15 @@
+<math id="mpadded">
+        <mpadded lspace="3em" voffset="-1em" height="1em" depth="2em" width="8em" style="background: lightblue">
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="64px" height="8px" style="background: lightgreen"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+        </mpadded>
+
+        <mpadded lspace="3em" voffset="-1em" height="1em" depth="2em" width="8em" style="background: lightblue">
+          <mspace width="64px" height="8px" style="background: lightgreen"/>
+        </mpadded>
+      </math>

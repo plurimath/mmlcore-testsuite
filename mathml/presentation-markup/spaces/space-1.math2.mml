@@ -1,0 +1,5 @@
+<math>
+      <mspace id="dynamic-attach" style="background: lightgreen"/>
+      <mspace id="dynamic-remove" width="10px" height="20px" depth="30px" style="background: lightyellow"/>
+      <mspace id="dynamic-modify" width="100px" height="200px" depth="300px" style="background: pink"/>
+    </math>

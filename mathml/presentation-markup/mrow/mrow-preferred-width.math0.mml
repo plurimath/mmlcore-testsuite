@@ -1,0 +1,7 @@
+<math>
+  <mrow class="mrow-like">
+    <mspace width="30px" height="15px" style="background: blue"/>
+    <mspace width="20px" depth="30px" style="background: green"/>
+    <mspace width="15px" height="5px" depth="10px" style="background: black"/>
+  </mrow>
+</math>

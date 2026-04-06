@@ -1,0 +1,6 @@
+<math>
+  <unknown>
+    <mspace id="aboveUnknown" width="10px" height="30px" style="background: purple"/>
+    <mspace id="belowUnknown" width="10px" depth="30px" style="background: blue"/>
+  </unknown>
+</math>

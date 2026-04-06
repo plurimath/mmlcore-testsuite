@@ -1,0 +1,25 @@
+<math>
+      <mspace id="unitCm" width="2.54cm"/>
+      <mspace id="unitEm" width="12em"/>
+      <mspace id="unitEx" width="100ex"/>
+      <mspace id="unitIn" width="3in"/>
+      <mspace id="unitMm" width="152.4mm"/>
+      <mspace id="unitPc" width="6pc"/>
+      <mstyle mathsize="200%"><mspace id="unitPercentage" width="3em"/></mstyle>
+      <mspace id="unitPt" width="72pt"/>
+      <mspace id="unitPx" width="123px"/>
+      <mspace id="unitQ" width="203.2q"/>
+      <mspace id="unitCh" width="10ch"/>
+      <mspace id="unitCap" width="14ch"/>
+      <mspace id="unitIc" width="9ic"/>
+      <mspace id="unitVw" width="35vw"/>
+      <mspace id="unitVh" width="54vh"/>
+      <mspace id="unitVi" width="11vi"/>
+      <mspace id="unitVb" width="4vb"/>
+      <mspace id="unitVmin" width="27vmin"/>
+      <mspace id="unitVmax" width="34vmax"/>
+      <mspace id="unitRem" width="8rem" style="font-size: 3px;"/>
+      <mspace id="unitLh" width="5lh" style="line-height: 12px;"/>
+      <mspace id="unitRlh" width="6rlh" style="line-height: 12px;"/>
+      <mstyle mathsize="5"><mspace id="unitNone" width="3em"/></mstyle>
+    </math>

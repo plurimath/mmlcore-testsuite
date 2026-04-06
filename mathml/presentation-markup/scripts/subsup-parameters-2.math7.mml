@@ -1,0 +1,10 @@
+<math displaystyle="true" style="font-family: largeop-displayoperatorminheight2000-2AFF-italiccorrection3000;">
+      <mmultiscripts>
+        <mo id="base014" lspace="0px" rspace="0px">⫿</mo>
+        <mspace id="sub014" height="1em" width="1em" style="background: blue"/>
+        <mspace id="sup014" height="1em" width="1em" style="background: green"/>
+        <mprescripts/>
+        <mspace id="sub015" height="1em" width="1em" style="background: magenta"/>
+        <mspace id="sup015" height="1em" width="1em" style="background: cyan"/>
+      </mmultiscripts>
+    </math>

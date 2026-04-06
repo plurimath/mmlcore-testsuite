@@ -1,0 +1,25 @@
+<math>
+      <mstyle displaystyle="true">
+        <msub>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+        </msub>
+        <msup>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+        </msup>
+        <msubsup>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+        </msubsup>
+        <mmultiscripts>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <mprescripts/>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+          <munder><mo movablelimits="true">O</mo><mo>O</mo></munder>
+        </mmultiscripts>
+      </mstyle>
+    </math>

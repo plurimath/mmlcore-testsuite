@@ -1,0 +1,14 @@
+<math>
+  <mtext id="text1">tabindex(omitted)</mtext>
+  <mtext id="text2" tabindex="">tabindex(empty)</mtext>
+  <mtext id="text3" tabindex="a">tabindex(a)</mtext>
+  <mtext id="text4" tabindex="-1">tabindex(-1)</mtext>
+  <mtext id="text5" tabindex="0">tabindex(0)</mtext>
+  <mtext id="text6" href="#link"><mtext>tabindex(mtext href)</mtext>
+  <a id="text7" href="#link"><mtext>tabindex(a href)</mtext></a>
+  <mtext id="text8" tabindex="3">tabindex(3)</mtext>
+  <mtext id="text9" tabindex="2">tabindex(2)</mtext>
+  <mtext id="text10" tabindex="2">tabindex(2)</mtext>
+  <mtext id="text11" tabindex="2">tabindex(2)</mtext>
+  <mtext id="text12" tabindex="1">tabindex(1)</mtext>
+</mtext></math>

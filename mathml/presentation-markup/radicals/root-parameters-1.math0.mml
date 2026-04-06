@@ -1,0 +1,7 @@
+<math style="font-family: degreebottomraisepercent25-rulethickness1000;">
+      <mspace id="ref001" width="3em" depth="1em" style="background: green"/>
+      <mroot>
+        <mspace id="base001" width="3em" height="10em" style="background: green"/>
+        <mspace id="index001" width="3em" height="1em" style="background: blue"/>
+      </mroot>
+    </math>

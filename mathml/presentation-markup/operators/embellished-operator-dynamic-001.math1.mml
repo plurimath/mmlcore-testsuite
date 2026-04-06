@@ -1,0 +1,14 @@
+<math display="block">
+    <mrow style="background: yellow">
+      <mn>3</mn>
+      <mrow style="background: orange">
+        <mrow id="change_to_embellished_operator">
+          <mrow>
+            <mo lspace="1em" rspace="1em">X</mo>
+          </mrow>
+          <mn/>
+        </mrow>
+      </mrow>
+      <mn>4</mn>
+    </mrow>
+  </math>

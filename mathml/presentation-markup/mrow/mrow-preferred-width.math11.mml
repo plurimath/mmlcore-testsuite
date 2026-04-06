@@ -1,0 +1,7 @@
+<math>
+  <mfenced class="mrow-like">
+    <mtext>blah</mtext>
+    <mo lspace="30px" rspace="20px">|</mo>
+    <mn>2</mn>
+  </mfenced>
+</math>

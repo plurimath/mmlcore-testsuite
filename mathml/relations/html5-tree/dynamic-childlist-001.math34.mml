@@ -1,0 +1,8 @@
+<math>
+      <msubsup data-reference="msubsup-reference-3" data-title="Removing extra child from msubsup">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+        <mspace width="10px" height="30px" style="background: black;"/>
+        <mspace width="10px" height="40px" style="background: black;"/>
+      </msubsup>
+    </math>

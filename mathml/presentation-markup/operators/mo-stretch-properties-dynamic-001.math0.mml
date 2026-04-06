@@ -1,0 +1,9 @@
+<math>
+      <mrow>
+        <mspace width="1em" height="1em" style="background: blue"/>
+        <mo id="minsize_attach" stretchy="true" symmetric="false">⥯</mo>
+        <mo id="minsize_modify" minsize="3em" stretchy="true" symmetric="false">⥯</mo>
+        <mo id="minsize_remove" minsize="2em" stretchy="true" symmetric="false">⥯</mo>
+        <mn><!-- not space like --></mn>
+      </mrow>
+    </math>

@@ -1,0 +1,7 @@
+<math>
+  <mfenced>
+    <mo id="moMfenced">↨</mo>
+    <mspace width="1px" height="100px" style="background: magenta"/>
+    <mn/>
+  </mfenced>
+</math>

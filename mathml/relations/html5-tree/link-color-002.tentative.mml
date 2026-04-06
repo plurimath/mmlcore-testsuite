@@ -1,0 +1,4 @@
+<math>
+    <mtext href="www.mozilla.org">Not a MathML Link</mtext>
+    <mrow href="www.mozilla.org"><mtext>Not a MathML Link</mtext></mrow>
+  </math>

@@ -1,0 +1,37 @@
+<math>
+      <mrow id="veryverythinmathspace">
+        <mspace width="1em"/>
+        <mspace width="veryverythinmathspace"/>
+        <mspace/>
+      </mrow>
+      <mrow id="verythinmathspace">
+        <mspace width="1em"/>
+        <mspace width="verythinmathspace"/>
+        <mspace/>
+      </mrow>
+      <mrow id="thinmathspace">
+        <mspace width="1em"/>
+        <mspace width="thinmathspace"/>
+        <mspace/>
+      </mrow>
+      <mrow id="mediummathspace">
+        <mspace width="1em"/>
+        <mspace width="mediummathspace"/>
+        <mspace/>
+      </mrow>
+      <mrow id="thickmathspace">
+        <mspace width="1em"/>
+        <mspace width="thickmathspace"/>
+        <mspace/>
+      </mrow>
+      <mrow id="verythickmathspace">
+        <mspace width="1em"/>
+        <mspace width="verythickmathspace"/>
+        <mspace/>
+      </mrow>
+      <mrow id="veryverythickmathspace">
+        <mspace width="1em"/>
+        <mspace width="veryverythickmathspace"/>
+        <mspace/>
+      </mrow>
+    </math>

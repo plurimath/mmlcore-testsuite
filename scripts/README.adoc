@@ -1,0 +1,42 @@
+= Sync Script
+
+== `sync.rb`
+
+[source,bash]
+----
+./sync.rb
+----
+
+Pulls the latest MathML Core tests from the
+https://github.com/web-platform-tests/wpt/[Web Platform Tests] monorepo
+and copies them into `../mathml/` (the `mathml/` subdirectory of the repo root).
+
+It also extracts `<math>` elements from HTML/XHTML test files into standalone `.mml`
+files in the `../extracted/` directory, one file per math element.
+
+=== How it works
+
+1. **Clone** — If `.wpt-cache/.git` does not exist, clones the
+   https://github.com/web-platform-tests/wpt[wpt monorepo] using
+   https://github.blog/2020-01-13-sparse-checkout/[git sparse checkout]
+   to fetch only the `mathml/` subtree (shallow clone).
+
+2. **Pull** — Runs `git pull origin master` inside `.wpt-cache/` to fetch
+   the latest commits.
+
+3. **Extract** — Parses each HTML/XHTML file in `.wpt-cache/mathml/` with Nokogiri,
+   extracts all `<math>` elements, and writes them to `../mathml/` as `.mml` files,
+   preserving the WPT directory structure. Files containing multiple math elements
+   get numbered suffixes (e.g., `frac-1.math0.mml`, `frac-1.math1.mml`).
+
+=== Cache
+
+The wpt monorepo clone lives at `.wpt-cache/` inside the repo.
+It is excluded from version control via `.gitignore`.
+
+=== Running repeatedly
+
+Subsequent runs skip the clone step and are therefore much faster
+(only `git pull` + extraction).
+
+Requires: `git`, Ruby 3.x, Bundler, Nokogiri

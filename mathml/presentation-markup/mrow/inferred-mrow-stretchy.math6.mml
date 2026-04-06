@@ -1,0 +1,7 @@
+<math>
+  <menclose notation="box">
+    <mo id="moMenclose">↨</mo>
+    <mspace width="1px" height="100px" style="background: magenta"/>
+    <mn/>
+  </menclose>
+</math>

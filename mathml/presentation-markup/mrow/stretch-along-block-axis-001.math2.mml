@@ -1,0 +1,9 @@
+<math>
+      <mrow>
+        <mspace style="background: blue" width="1em" height=".75em"/>
+        <mo style="font-size: 50%" id="smaller_op" stretchy="true">⥜</mo>
+        <mspace style="background: blue" width="1em" height="1.5em"/>
+        <mo style="font-size: 200%" id="bigger_op" stretchy="true">⥜</mo>
+        <mspace style="background: blue" width="1em" height="1em"/>
+      </mrow>
+    </math>

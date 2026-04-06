@@ -1,0 +1,13 @@
+<math dir="rtl">
+    <mrow>
+      <mn>22</mn>
+      <mo data-title="child of mrow, not embellished, RTL, normal text" lspace="1em" rspace="2em">+++</mo>
+      <mn>4444</mn>
+      <mo data-title="child of mrow, not embellished, RTL, largeop variant" lspace="3em" rspace="4em" largeop="true">⫿</mo>
+      <mn>55555</mn>
+      <mo data-title="child of mrow, not embellished, RTL, stretchy variant" lspace="5em" rspace="6em" stretchy="true" minsize="2em">⥜</mo>
+      <mn>666666</mn>
+      <mo data-title="child of mrow, not embellished, RTL, glyph assembly" lspace="7em" rspace="8em" stretchy="true" minsize="10em">⥜</mo>
+      <mn>7777777</mn>
+    </mrow>
+  </math>

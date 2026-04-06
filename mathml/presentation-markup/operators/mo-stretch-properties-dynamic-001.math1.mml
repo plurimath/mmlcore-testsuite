@@ -1,0 +1,9 @@
+<math>
+      <mrow>
+        <mspace width="1em" height="6em" style="background: blue"/>
+        <mo id="maxsize_attach" stretchy="true" symmetric="false">⥯</mo>
+        <mo id="maxsize_modify" maxsize="3em" stretchy="true" symmetric="false">⥯</mo>
+        <mo id="maxsize_remove" maxsize="2em" stretchy="true" symmetric="false">⥯</mo>
+        <mn><!-- not space like --></mn>
+      </mrow>
+    </math>

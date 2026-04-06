@@ -1,0 +1,50 @@
+<math id="mmultiscripts">
+        <mmultiscripts>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="128px" height="24px" style="background: lightblue"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="64px" height="8px" style="background: lightgreen"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="32px" height="16px" style="background: lightgreen"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="96px" height="48px" style="background: lightgreen"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="48px" height="32px" style="background: lightgreen"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mprescripts/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="32px" height="16px" style="background: lightsalmon"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+          <mspace width="16px" height="48px" style="background: lightsalmon"/>
+          <mspace width="32px" class="oof1"/>
+          <mspace width="16px" class="oof2"/>
+          <mspace width="8px" class="nobox"/>
+        </mmultiscripts>
+
+        <mmultiscripts>
+          <mspace width="128px" height="24px" style="background: lightblue"/>
+          <mspace width="64px" height="8px" style="background: lightgreen"/>
+          <mspace width="32px" height="16px" style="background: lightgreen"/>
+          <mspace width="96px" height="48px" style="background: lightgreen"/>
+          <mspace width="48px" height="32px" style="background: lightgreen"/>
+          <mprescripts/>
+          <mspace width="32px" height="16px" style="background: lightsalmon"/>
+          <mspace width="16px" height="48px" style="background: lightsalmon"/>
+        </mmultiscripts>
+      </math>

@@ -1,0 +1,15 @@
+<math>
+      <mspace id="empty"/>
+      <mspace id="width0" width="25px"/>
+      <mspace id="width1" width="50px"/>
+      <mspace id="width2" width="75px"/>
+      <mspace id="height0" height="25px"/>
+      <mspace id="height1" height="50px"/>
+      <mspace id="height2" height="75px"/>
+      <mspace id="depth0" depth="25px"/>
+      <mspace id="depth1" depth="50px"/>
+      <mspace id="depth2" depth="75px"/>
+      <mspace id="mspace0" width="25px" height="50px" depth="75px" style="background: green"/>
+      <mspace id="mspace1" width="50px" height="75px" depth="25px" style="background: blue"/>
+      <mspace id="mspace2" width="75px" height="25px" depth="50px" style="background: green"/>
+    </math>

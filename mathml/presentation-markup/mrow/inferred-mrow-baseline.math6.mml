@@ -1,0 +1,6 @@
+<math>
+  <menclose notation="box">
+    <mspace id="aboveMenclose" width="10px" height="30px" style="background: purple"/>
+    <mspace id="belowMenclose" width="10px" depth="30px" style="background: blue"/>
+  </menclose>
+</math>

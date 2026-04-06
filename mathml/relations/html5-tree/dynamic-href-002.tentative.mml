@@ -1,0 +1,7 @@
+<math>
+      <mspace width="50px" height="10px" style="background: gray"/>
+      <a id="target" href="javascript:badHandler()" style="background: blue">
+        <mspace width="50px" height="10px"/>
+      </a>
+      <mspace width="50px" height="10px" style="background: gray"/>
+    </math>

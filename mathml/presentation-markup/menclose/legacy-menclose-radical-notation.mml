@@ -1,0 +1,8 @@
+<math>
+      <menclose notation="radical">
+        <mn>123</mn>
+      </menclose>
+      <menclose notation="box radical">
+        <mn>123</mn>
+      </menclose>
+    </math>

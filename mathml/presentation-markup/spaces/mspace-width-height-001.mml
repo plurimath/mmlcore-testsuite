@@ -1,0 +1,28 @@
+<math>
+      <!-- Reference baseline -->
+      <mspace id="baseline" style="background: black" width="10px" height="100px" depth="100px"/>
+
+      <!-- width="500px" is a presentational hint
+           setting the element's width property to the corresponding value,
+           overridden by the inline style width: 200px.
+           height="200px" sets the height/line-ascent to 200px. -->
+      <mspace id="widthAttributePlusWidthProperty" width="500px" height="200px" style="width: 200px; background: green"/>
+
+      <!-- height="100px" + depth="200px" are used as a presentational hint
+           setting the element's height property to calc(100px + 200px),
+           overridden by inline style height: 200px.
+           height="100px" sets the line-ascent to 100px. -->
+      <mspace id="heightAndDepthAttributesPlusHeightProperty" width="200px" height="100px" depth="200px" style="height: 200px; background: blue"/>
+
+      <!-- height="300px" is used as a presentational hint
+           setting the element's height property to the corresponding value,
+           overridden by inline style height: 200px.
+           height="300px" sets the line-ascent to 300px. -->
+      <mspace id="heightAttributePlusHeightProperty" width="200px" height="300px" style="height: 200px; background: magenta"/>
+
+      <!-- depth="300px" is used as a presentational hint
+           setting the element's height property to the corresponding value,
+           overridden by inline style height: 200px.
+           The line-ascent defaults to 0. -->
+      <mspace id="depthAttributePlusHeightProperty" width="200px" depth="300px" style="height: 200px; background: yellow"/>
+    </math>

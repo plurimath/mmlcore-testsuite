@@ -1,0 +1,6 @@
+<math>
+      <maction actiontype="statusline">
+        <mspace width="10px" height="10px"/>
+        <mtext>MESSAGE</mtext>
+      </maction>
+    </math>

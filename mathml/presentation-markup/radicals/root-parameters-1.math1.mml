@@ -1,0 +1,9 @@
+<math display="block" style="font-family: displaystyleverticalgap7000-rulethickness1000;">
+      <msqrt style="background: green" id="radical0021">
+        <mspace id="base0021" width="3em" height="1em" style="background: blue"/>
+      </msqrt>
+      <mroot style="background: green" id="radical0022">
+        <mspace id="base0022" width="3em" height="1em" style="background: blue"/>
+        <mspace width="3em" height="1em" style="background: black"/>
+      </mroot>
+    </math>

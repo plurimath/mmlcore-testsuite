@@ -1,0 +1,21 @@
+<math style="font-family: superscriptshiftup7000;">
+        <mspace id="ref101" height="1em" width="1em" style="background: green"/>
+        <msup>
+          <mspace height="2em" width="2em" style="background: blue"/>
+          <mspace id="sup102" height="1em" width="1em" style="background: red"/>
+        </msup>
+        <msubsup>
+          <mspace height="2em" width="2em" style="background: blue"/>
+          <mspace height="1em" width="1em" style="background: red"/>
+          <mspace id="sup103" height="1em" width="1em" style="background: red"/>
+        </msubsup>
+        <mmultiscripts>
+          <mspace height="2em" width="2em" style="background: blue"/>
+          <none/>
+          <mspace id="sup1041" height="1em" width="1em" style="background: red"/>
+          <none/>
+          <mspace id="sup1042" height="1em" width="1em" style="background: red"/>
+          <none/>
+          <mspace id="sup1043" height="1em" width="1em" style="background: red"/>
+        </mmultiscripts>
+      </math>

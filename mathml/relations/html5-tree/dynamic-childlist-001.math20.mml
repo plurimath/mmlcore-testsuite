@@ -1,0 +1,14 @@
+<math>
+      <msub id="msub-reference-1">
+        <mspace width="10px" height="10px" style="background: black;"/>
+      </msub>
+      <msub id="msub-reference-2">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+      </msub>
+      <msub id="msub-reference-3">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+        <mspace width="10px" height="30px" style="background: black;"/>
+      </msub>
+    </math>

@@ -1,0 +1,6 @@
+<math>
+  <merror>
+    <mspace id="aboveError" width="10px" height="30px" style="background: purple"/>
+    <mspace id="belowError" width="10px" depth="30px" style="background: blue"/>
+  </merror>
+</math>

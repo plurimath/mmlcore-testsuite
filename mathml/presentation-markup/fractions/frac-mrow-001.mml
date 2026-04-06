@@ -1,0 +1,12 @@
+<math>
+      <mfrac>
+        <mrow>
+          <mspace width="30px" height="60px" style="background: blue"/>
+          <mspace width="30px" height="60px" style="background: blue "/>
+        </mrow>
+        <mrow>
+          <mspace width="30px" height="60px" style="background: cyan"/>
+          <mspace width="30px" height="60px" style="background: cyan "/>
+        </mrow>
+      </mfrac>
+    </math>

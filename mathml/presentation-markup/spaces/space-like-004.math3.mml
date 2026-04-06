@@ -1,0 +1,114 @@
+<math>
+      <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+      <mn>X</mn>
+      <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+      <mrow>
+        <!-- This element is not space-like. It is made of nested
+             mrow, mstyle, mpadded, mphantom, mtext, mspace but contains
+             one non-space like descendant (an mn element).
+          -->
+        <mrow class="testedElement" id="complex2-bis">
+          <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+          <mtext>X</mtext>
+          <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+          <mstyle>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mstyle>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            </mstyle>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mtext>X</mtext>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mspace width="25px"/>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mpadded>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mrow/>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mspace width="25px"/>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mphantom>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mtext>X</mtext>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mspace width="25px"/>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              </mphantom>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mrow>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mtext>X</mtext>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mtext>X</mtext>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              </mrow>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mspace width="25px"/>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            </mpadded>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mspace width="25px"/>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mtext>X</mtext>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mspace width="25px"/>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            <mpadded>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mphantom>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mn>X</mn> <!-- mn is not space-like -->
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mspace width="25px"/>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              </mphantom>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mspace width="25px"/>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mspace width="25px"/>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mphantom>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mtext>X</mtext>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+                <mspace width="25px"/>
+                <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              </mphantom>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mtext>X</mtext>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+              <mspace width="25px"/>
+              <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+            </mpadded>
+            <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+          </mstyle>
+          <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+          <mspace width="25px"/>
+          <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+        </mrow>
+        <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+        <mo lspace="1em" rspace="0em">X</mo>
+        <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+      </mrow>
+      <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+      <mn>X</mn>
+      <mn class="oof1">0</mn><mn class="oof2">1</mn><mn class="nobox">2</mn>
+    </math>

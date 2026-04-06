@@ -1,0 +1,6 @@
+<math>
+  <a>
+    <mspace id="aboveA" width="10px" height="30px" style="background: purple"/>
+    <mspace id="belowA" width="10px" depth="30px" style="background: blue"/>
+  </a>
+</math>

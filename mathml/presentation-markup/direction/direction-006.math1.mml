@@ -1,0 +1,26 @@
+<math dir="rtl">
+        <mtable frame="solid">
+          <mtr>
+            <mtd>
+              <mtext>X</mtext>
+            </mtd>
+            <mtd>
+              <mtext>p</mtext>
+            </mtd>
+            <mtd>
+              <mtext>É</mtext>
+            </mtd>
+          </mtr>
+          <mtr>
+            <mtd>
+              <mtext>Xp</mtext>
+            </mtd>
+            <mtd>
+              <mtext>XÉ</mtext>
+            </mtd>
+            <mtd>
+              <mtext>pÉ</mtext>
+            </mtd>
+          </mtr>
+        </mtable>
+      </math>

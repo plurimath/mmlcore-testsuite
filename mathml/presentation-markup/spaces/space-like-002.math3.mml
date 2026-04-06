@@ -1,0 +1,12 @@
+<math>
+      <mn>X</mn>
+      <mrow>
+        <!-- semantics is space-like when its first child exists and is space-like -->
+        <semantics id="semantics1" class="testedElement" actiontype="statusline">
+          <mtext>X</mtext>
+          <annotation>TEXT ANNOTATION</annotation>
+        </semantics>
+        <mo lspace="1em" rspace="0em">X</mo>
+      </mrow>
+      <mn>X</mn>
+    </math>

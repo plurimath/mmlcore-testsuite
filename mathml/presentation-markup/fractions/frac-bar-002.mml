@@ -1,0 +1,8 @@
+<math>
+          <!-- border, padding and margin should not affect the width of the fraction bar. -->
+          <mfrac style="color: green; font-size: 15em;&#10;                        border: 30px solid transparent;&#10;                        padding: 60px; margin: 120px;&#10;                        ">
+            <!-- the bar width is the one of the numerator margin box i.e. 80 + 2 * (5 + 10 + 20) = 150px -->
+            <mspace id="numerator" width="80px" style="border: 5px solid transparent;&#10;                           padding: 10px; margin: 20px;"/>
+            <mspace/>
+          </mfrac>
+        </math>

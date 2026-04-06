@@ -1,0 +1,16 @@
+<math>
+      <mstyle accent="true">
+        <munderover>
+          <mn>1</mn>
+          <mn>2</mn>
+          <mn>3</mn>
+        </munderover>
+      </mstyle>
+      <mstyle accentunder="true">
+        <munderover>
+          <mn>1</mn>
+          <mn>2</mn>
+          <mn>3</mn>
+        </munderover>
+      </mstyle>
+    </math>

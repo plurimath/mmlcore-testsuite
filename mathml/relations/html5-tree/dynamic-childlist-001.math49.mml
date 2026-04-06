@@ -1,0 +1,34 @@
+<math>
+      <mmultiscripts id="mmultiscripts-reference-0">
+      </mmultiscripts>
+      <mmultiscripts id="mmultiscripts-reference-1">
+        <mspace width="10px" height="10px" style="background: black;"/>
+      </mmultiscripts>
+      <mmultiscripts id="mmultiscripts-reference-2">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+      </mmultiscripts>
+      <mmultiscripts id="mmultiscripts-reference-3">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+        <mspace width="10px" height="30px" style="background: black;"/>
+      </mmultiscripts>
+      <mmultiscripts id="mmultiscripts-reference-6">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+        <mspace width="10px" height="30px" style="background: black;"/>
+        <mspace width="10px" height="40px" style="background: black;"/>
+        <mspace width="10px" height="50px" style="background: black;"/>
+        <mprescripts/>
+      </mmultiscripts>
+      <mmultiscripts id="mmultiscripts-reference-8">
+        <mspace width="10px" height="10px" style="background: black;"/>
+        <mspace width="10px" height="20px" style="background: black;"/>
+        <mspace width="10px" height="30px" style="background: black;"/>
+        <mspace width="10px" height="40px" style="background: black;"/>
+        <mspace width="10px" height="50px" style="background: black;"/>
+        <mprescripts/>
+        <mspace width="10px" height="70px" style="background: black;"/>
+        <mspace width="10px" height="80px" style="background: black;"/>
+      </mmultiscripts>
+    </math>

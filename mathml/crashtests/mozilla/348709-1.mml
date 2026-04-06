@@ -1,0 +1,12 @@
+<math display="block">
+<mrow>
+  <mfenced open="[" close="]">
+    <mtable>
+      <mtr id="mtr">
+         <mtd><mi>x</mi></mtd>
+         <mtd><mi>y</mi></mtd>
+      </mtr>
+    </mtable>
+  </mfenced>
+</mrow>
+</math>

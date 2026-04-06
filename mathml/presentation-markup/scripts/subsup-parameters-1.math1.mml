@@ -1,0 +1,7 @@
+<math style="font-family: spaceafterscript3000;">
+        <msup>
+          <mspace height="2em" width="2em" style="background: blue"/>
+          <mspace id="sup002" height="1em" width="1em" style="background: red"/>
+        </msup>
+        <mspace id="ref002" height="1em" width="1em" style="background: green"/>
+      </math>
