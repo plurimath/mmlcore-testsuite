@@ -30,6 +30,13 @@ The `mathml/` subdirectory contains extracted `<math>` elements as standalone
 The raw WPT files (HTML/XHTML) live in `.wpt-cache/mathml/` and are not
 copied into `mathml/` — only the extracted `<math>` elements are.
 
+[NOTE]
+====
+Some WPT tests — particularly crashtests — contain intentionally malformed
+MathML that browsers tolerate but is not valid MathML (e.g. missing `<math>`
+wrappers, unclosed tags, invalid nesting). These are skipped during extraction.
+====
+
 Root-level files synced from `mathml/`:
 
 * `META.yml` — WPT metadata (spec URL, suggested reviewers)
